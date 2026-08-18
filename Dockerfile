@@ -30,6 +30,8 @@ RUN sed -i '0,/^  --session-api-key "\$EFFECTIVE_SESSION_KEY" \\$/s||  --auth-re
 COPY railway-entrypoint.sh /usr/local/bin/railway-entrypoint.sh
 RUN chmod 0755 /usr/local/bin/railway-entrypoint.sh
 
+ENV DO_NOT_TRACK=1
+
 USER openhands
 
 EXPOSE 8000
