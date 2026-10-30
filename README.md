@@ -1,5 +1,9 @@
 # openhands-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/openhands-or-just-updated-ai-coding-agen?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [OpenHands template](https://railway.com/deploy/openhands-or-just-updated-ai-coding-agen?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [OpenHands Agent Canvas](https://github.com/OpenHands/OpenHands)
 on Railway. Published as `ghcr.io/bon5co/openhands-railway:1.14.0`.
 
